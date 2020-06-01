@@ -1,0 +1,9 @@
+[Wizard]
+Headline="Yearbook"
+Preview=yearbook.jpg
+
+[SubItems]
+1="yearbook.wiz"
+
+[Translation]
+1="Yearbook"
